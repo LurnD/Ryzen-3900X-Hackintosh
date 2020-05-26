@@ -1,14 +1,15 @@
 # Hackintosh for AMD 3900X using OpenCore
 
 ## Specification
-
-> CPU: AMD Ryzen9 3900X 12 Core 24 Thread
-> Motherboard: MSI X570-A Pro
-> Cooler: Noctua NH-D15S
-> Memory: Asgard Loki RGB 8GB * 2 DDR4 3200
-> Storage: WD SN750 500G
-> GPU: RX580 4G with MSI vBIOS
-> Power Supply: Seasonic Focus 750 / Antec 750
+|Device|Desscription|
+|---|---|
+|CPU| AMD Ryzen9 3900X 12 Core 24 Thread|
+|Motherboard| MSI X570-A Pro|
+|Cooler| Noctua NH-D15S|
+|Memory| Asgard Loki RGB 8GB * 2 DDR4 3200|
+|Storage| WD SN750 500G|
+|GPU| RX580 4G with MSI vBIOS|
+|Power Supply: Seasonic Focus 750 / Antec 750|
 
 ## Preparation
 
@@ -61,6 +62,6 @@ You should connect your keyboard and mouse in USB 2.0 ports, then select *Disk U
 ![DDDAE328-CFAE-45AD-8D77-9A7FD903C308.jpeg](https://i.loli.net/2020/05/26/cB4p8f15PewQX9C.jpg)
 
 ## Reference
-[vanilla](vanilla.amd-osx.com)
-[OpenCore](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
-[Kext Repo](https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&id=FE4038DA929BFB23%21455036&cid=FE4038DA929BFB23)
+[vanilla](vanilla.amd-osx.com)  
+[OpenCore](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)  
+[Kext Repo](https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&id=FE4038DA929BFB23%21455036&cid=FE4038DA929BFB23)  
