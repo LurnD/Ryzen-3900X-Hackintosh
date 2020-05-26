@@ -9,7 +9,7 @@
 |Memory| Asgard Loki RGB 8GB * 2 DDR4 3200|
 |Storage| WD SN750 500G|
 |GPU| RX580 4G with MSI vBIOS|
-|Power Supply: Seasonic Focus 750 / Antec 750|
+|Power Supply| Seasonic Focus 750 / Antec 750|
 
 ## Preparation
 
