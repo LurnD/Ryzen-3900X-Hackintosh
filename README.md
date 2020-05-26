@@ -54,6 +54,12 @@ If there are some differences in your hardware, you can check [reference sites](
 When you hit the power botton, it will guide you to boot opencore, Then you can choose which Operating system to start. We Choose macOS Recovery option.
 You should connect your keyboard and mouse in USB 2.0 ports, then select *Disk Utility* to format your ssd to *APFS*, then install the macOS. It will download macOS image from the Internet, time will depend on your internet speed and reliability.
 
+## Photos
+
+![76BD1BF1-BEA3-4419-A9D3-A2343F89CFD8.jpeg](https://i.loli.net/2020/05/26/Z2TXNWszuopHgF3.jpg)
+
+![DDDAE328-CFAE-45AD-8D77-9A7FD903C308.jpeg](https://i.loli.net/2020/05/26/cB4p8f15PewQX9C.jpg)
+
 ## Reference
 [vanilla](vanilla.amd-osx.com)
 [OpenCore](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
